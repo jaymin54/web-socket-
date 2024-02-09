@@ -1,0 +1,87 @@
+{
+    
+      "person_served": 4,
+      "userId": "user123",
+      "title": "Classic Spaghetti Carbonara",
+      "imageUrl": [
+        "spaghetti_carbonara_image.jpg"
+      ],
+      "description": "A classic Italian pasta made with eggs, cheese, pancetta, and pepper.",
+      "total_time": 30,
+      "no_ingredients": 6,
+      "food": "Non-Veg",
+      "calories": 450,
+      "fat": 25,
+      "protein": 20,
+      "carbs": 40,
+      "spicy_level": "Mild",
+      "cuisine": [
+        "Italian"
+      ],
+      "meals": [
+        "Dinner"
+      ],
+      "directions": {
+        "container1": {
+          "time": "30 minutes",
+          "imageUrl": [
+            "pasta_directions_image.jpg"
+          ],
+          "description": "Follow these steps to make delicious spaghetti carbonara.",
+          "ingredients": [
+            {
+              "name": "Spaghetti",
+              "tool": "Pot",
+              "measurement": "200g"
+            },
+            {
+              "name": "Eggs",
+              "tool": "Bowl",
+              "measurement": "2"
+            },
+            {
+              "name": "Pancetta or Guanciale",
+              "tool": "Pan",
+              "measurement": "150g"
+            },
+            {
+              "name": "Pecorino Romano Cheese (or Parmesan)",
+              "tool": "Grater",
+              "measurement": "50g"
+            },
+            {
+              "name": "Black Pepper",
+              "tool": "Mill",
+              "measurement": "to taste"
+            },
+            {
+              "name": "Salt",
+              "tool": "N/A",
+              "measurement": "to taste"
+            }
+          ],
+          "temperature": "Medium heat"
+        },
+        "container2": {
+          "time": "5 minutes",
+          "imageUrl": [
+            "container2_directions_image.jpg"
+          ],
+          "description": "Another set of directions for the pasta recipe.",
+          "ingredients": [
+            {
+              "name": "Ingredient 1 for container 2",
+              "tool": "Tool for container 2",
+              "measurement": "Amount for container 2"
+            },
+            {
+              "name": "Ingredient 2 for container 2",
+              "tool": "Tool for container 2",
+              "measurement": "Amount for container 2"
+            }
+          ],
+          "temperature": "Low heat"
+        }
+      }
+    
+  }
